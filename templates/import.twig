@@ -1,0 +1,11 @@
+<form method="post" action="{{ url('customer-manager/import-customers') }}">
+    {{ csrfInput() }}
+    <h2>Import Customers</h2>
+    <button type="submit">Import customers.csv</button>
+</form>
+
+<form method="post" action="{{ url('customer-manager/import-purchases') }}">
+    {{ csrfInput() }}
+    <h2>Import Purchases</h2>
+    <button type="submit">Import purchase_history.csv</button>
+</form>

@@ -1,0 +1,586 @@
+customer_email,purchasable,price,quantity,total,date
+rickyfriedman@gmail.com,Dark Chocolate Bar,75.38,4,301.52,2024-07-18
+brownbilly@hotmail.com,Herbal Green Tea,94.1,3,282.3,2022-01-13
+curtisevans@yahoo.com,Natural Honey Jar,95.56,5,477.8,2022-03-14
+katrina56@hotmail.com,Gluten-Free Crackers,38.55,4,154.2,2021-09-11
+cardenasjoshua@gmail.com,Organic Almond Butter,49.01,1,49.01,2021-11-18
+rphillips@sutton-bates.com,Sea Salt Potato Chips,62.35,1,62.35,2022-02-13
+curtisevans@yahoo.com,Herbal Green Tea,94.1,5,470.5,2023-02-07
+tina89@hotmail.com,Maple Granola Mix,33.34,1,33.34,2022-11-06
+millerlisa@mccarthy.org,Coconut Milk Beverage,95.45,5,477.25,2020-06-04
+brownbilly@hotmail.com,Roasted Coffee Beans,28.56,2,57.12,2021-11-12
+tina89@hotmail.com,Lavender Hand Soap,40.53,5,202.65,2024-09-02
+rickyfriedman@gmail.com,Extra Virgin Olive Oil,87.64,3,262.92,2021-06-01
+craigbrown@mccarty.com,Chia Seed Pudding,17.89,2,35.78,2020-02-04
+greenerin@hotmail.com,Protein Snack Bars,59.72,4,238.88,2021-12-27
+greenkeith@yahoo.com,Natural Honey Jar,95.56,2,191.12,2021-11-30
+brittney21@stewart.com,Dark Chocolate Bar,75.38,3,226.14,2023-05-09
+hawkinsrichard@fry-cooper.net,Citrus Sparkling Water,26.0,4,104.0,2023-03-04
+greenkeith@yahoo.com,Herbal Green Tea,94.1,1,94.1,2020-10-18
+greenerin@hotmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2022-05-21
+carolgriffith@hotmail.com,Sea Salt Potato Chips,62.35,5,311.75,2022-09-27
+greenerin@hotmail.com,Organic Almond Butter,49.01,3,147.03,2020-11-23
+tina89@hotmail.com,Chia Seed Pudding,17.89,5,89.45,2021-01-08
+rphillips@sutton-bates.com,Whole Grain Pasta,71.53,5,357.65,2024-07-04
+rphillips@sutton-bates.com,Sourdough Bread Loaf,38.39,5,191.95,2020-09-15
+rebecca74@gmail.com,Fresh Avocado Dip,72.83,2,145.66,2020-09-27
+millerlisa@mccarthy.org,Sourdough Bread Loaf,38.39,1,38.39,2024-07-27
+tina89@hotmail.com,Dark Chocolate Bar,75.38,4,301.52,2021-04-22
+katrina56@hotmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2022-04-22
+craigbrown@mccarty.com,Whole Grain Pasta,71.53,3,214.59,2024-09-08
+millerlisa@mccarthy.org,Fresh Avocado Dip,72.83,2,145.66,2023-08-08
+katrina56@hotmail.com,Dark Chocolate Bar,75.38,1,75.38,2021-12-23
+curtisevans@yahoo.com,Natural Honey Jar,95.56,2,191.12,2021-01-24
+tina89@hotmail.com,Roasted Coffee Beans,28.56,2,57.12,2021-07-20
+greenkeith@yahoo.com,Protein Snack Bars,59.72,2,119.44,2020-05-20
+curtisevans@yahoo.com,Extra Virgin Olive Oil,87.64,5,438.2,2020-11-21
+greenkeith@yahoo.com,Citrus Sparkling Water,26.0,3,78.0,2022-10-07
+rphillips@sutton-bates.com,Sea Salt Potato Chips,62.35,3,187.05,2024-05-27
+katrina56@hotmail.com,Citrus Sparkling Water,26.0,1,26.0,2021-09-21
+kyle41@townsend.com,Protein Snack Bars,59.72,5,298.6,2023-08-23
+greenerin@hotmail.com,Fresh Avocado Dip,72.83,2,145.66,2023-06-04
+carolgriffith@hotmail.com,Protein Snack Bars,59.72,4,238.88,2023-12-17
+hawkinsrichard@fry-cooper.net,Spicy Salsa Jar,77.17,1,77.17,2022-06-22
+greenerin@hotmail.com,Lavender Hand Soap,40.53,5,202.65,2020-02-01
+curtisevans@yahoo.com,Coconut Milk Beverage,95.45,3,286.35,2022-11-03
+paul92@yahoo.com,Spicy Salsa Jar,77.17,1,77.17,2023-06-24
+michellehenderson@gmail.com,Extra Virgin Olive Oil,87.64,4,350.56,2023-03-10
+rebecca74@gmail.com,Maple Granola Mix,33.34,1,33.34,2023-06-09
+jillian25@welch.org,Herbal Green Tea,94.1,4,376.4,2022-01-21
+rphillips@sutton-bates.com,Citrus Sparkling Water,26.0,2,52.0,2021-07-18
+ehodges@yahoo.com,Mixed Berry Jam,13.43,2,26.86,2023-08-17
+michellehenderson@gmail.com,Extra Virgin Olive Oil,87.64,3,262.92,2020-03-06
+rebecca74@gmail.com,Chia Seed Pudding,17.89,4,71.56,2022-11-19
+rickyfriedman@gmail.com,Whole Grain Pasta,71.53,3,214.59,2020-08-13
+rickyfriedman@gmail.com,Dark Chocolate Bar,75.38,5,376.9,2020-03-03
+hawkinsrichard@fry-cooper.net,Whole Grain Pasta,71.53,5,357.65,2022-12-13
+paul92@yahoo.com,Citrus Sparkling Water,26.0,2,52.0,2022-03-16
+rickyfriedman@gmail.com,Fresh Avocado Dip,72.83,4,291.32,2021-03-14
+tina89@hotmail.com,Chia Seed Pudding,17.89,4,71.56,2023-01-02
+katrina56@hotmail.com,Maple Granola Mix,33.34,5,166.7,2022-10-20
+millerlisa@mccarthy.org,Herbal Green Tea,94.1,4,376.4,2024-05-13
+tina89@hotmail.com,Lavender Hand Soap,40.53,3,121.59,2022-03-28
+millerlisa@mccarthy.org,Sourdough Bread Loaf,38.39,2,76.78,2020-01-17
+rphillips@sutton-bates.com,Maple Granola Mix,33.34,1,33.34,2022-10-01
+tina89@hotmail.com,Organic Tomato Sauce,80.03,2,160.06,2022-08-12
+jillian25@welch.org,Chia Seed Pudding,17.89,4,71.56,2021-01-27
+brittney21@stewart.com,Gluten-Free Crackers,38.55,5,192.75,2020-01-12
+rphillips@sutton-bates.com,Organic Almond Butter,49.01,3,147.03,2022-12-08
+kyle41@townsend.com,Citrus Sparkling Water,26.0,5,130.0,2021-07-25
+michellehenderson@gmail.com,Citrus Sparkling Water,26.0,3,78.0,2024-04-22
+carolgriffith@hotmail.com,Spicy Salsa Jar,77.17,3,231.51,2023-05-19
+hawkinsrichard@fry-cooper.net,Dark Chocolate Bar,75.38,3,226.14,2022-06-21
+kyle41@townsend.com,Protein Snack Bars,59.72,2,119.44,2023-11-17
+carolgriffith@hotmail.com,Citrus Sparkling Water,26.0,5,130.0,2023-02-22
+greenerin@hotmail.com,Gluten-Free Crackers,38.55,3,115.65,2022-10-19
+millerlisa@mccarthy.org,Lavender Hand Soap,40.53,3,121.59,2021-06-19
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,1,13.43,2022-07-14
+hawkinsrichard@fry-cooper.net,Fresh Avocado Dip,72.83,1,72.83,2023-05-09
+michellehenderson@gmail.com,Lavender Hand Soap,40.53,5,202.65,2022-07-16
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,3,40.29,2022-01-14
+carolgriffith@hotmail.com,Organic Tomato Sauce,80.03,5,400.15,2024-04-11
+kyle41@townsend.com,Sea Salt Potato Chips,62.35,5,311.75,2022-03-31
+curtisevans@yahoo.com,Natural Honey Jar,95.56,1,95.56,2023-07-15
+brownbilly@hotmail.com,Chia Seed Pudding,17.89,2,35.78,2022-04-11
+carolgriffith@hotmail.com,Gluten-Free Crackers,38.55,2,77.1,2020-10-31
+michellehenderson@gmail.com,Chia Seed Pudding,17.89,5,89.45,2021-04-07
+hawkinsrichard@fry-cooper.net,Chia Seed Pudding,17.89,5,89.45,2023-03-31
+greenerin@hotmail.com,Maple Granola Mix,33.34,3,100.02,2022-08-14
+millerlisa@mccarthy.org,Natural Honey Jar,95.56,1,95.56,2021-04-16
+brownbilly@hotmail.com,Extra Virgin Olive Oil,87.64,3,262.92,2023-08-29
+hawkinsrichard@fry-cooper.net,Dark Chocolate Bar,75.38,3,226.14,2023-07-07
+cardenasjoshua@gmail.com,Dark Chocolate Bar,75.38,5,376.9,2020-04-17
+katrina56@hotmail.com,Fresh Avocado Dip,72.83,4,291.32,2022-12-19
+ehodges@yahoo.com,Coconut Milk Beverage,95.45,1,95.45,2024-03-07
+michellehenderson@gmail.com,Spicy Salsa Jar,77.17,5,385.85,2020-05-08
+jillian25@welch.org,Roasted Coffee Beans,28.56,3,85.68,2024-06-11
+jillian25@welch.org,Spicy Salsa Jar,77.17,1,77.17,2023-06-14
+jillian25@welch.org,Natural Honey Jar,95.56,5,477.8,2022-07-12
+brownbilly@hotmail.com,Sea Salt Potato Chips,62.35,1,62.35,2022-06-26
+jillian25@welch.org,Organic Almond Butter,49.01,4,196.04,2020-03-13
+carolgriffith@hotmail.com,Lavender Hand Soap,40.53,1,40.53,2024-02-28
+rphillips@sutton-bates.com,Maple Granola Mix,33.34,3,100.02,2021-10-27
+craigbrown@mccarty.com,Dark Chocolate Bar,75.38,2,150.76,2021-04-01
+ehodges@yahoo.com,Dark Chocolate Bar,75.38,4,301.52,2022-01-06
+brittney21@stewart.com,Natural Honey Jar,95.56,2,191.12,2021-11-25
+greenerin@hotmail.com,Citrus Sparkling Water,26.0,5,130.0,2023-08-19
+kyle41@townsend.com,Spicy Salsa Jar,77.17,3,231.51,2021-06-20
+greenerin@hotmail.com,Organic Almond Butter,49.01,4,196.04,2022-12-18
+katrina56@hotmail.com,Spicy Salsa Jar,77.17,4,308.68,2020-05-08
+tina89@hotmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2024-05-13
+ehodges@yahoo.com,Herbal Green Tea,94.1,3,282.3,2020-05-09
+cardenasjoshua@gmail.com,Whole Grain Pasta,71.53,4,286.12,2023-08-02
+tina89@hotmail.com,Herbal Green Tea,94.1,2,188.2,2021-06-23
+cardenasjoshua@gmail.com,Organic Tomato Sauce,80.03,4,320.12,2021-06-01
+ehodges@yahoo.com,Roasted Coffee Beans,28.56,5,142.8,2021-03-16
+rickyfriedman@gmail.com,Gluten-Free Crackers,38.55,4,154.2,2022-05-21
+rebecca74@gmail.com,Gluten-Free Crackers,38.55,3,115.65,2023-08-21
+katrina56@hotmail.com,Organic Almond Butter,49.01,3,147.03,2023-05-07
+rphillips@sutton-bates.com,Extra Virgin Olive Oil,87.64,4,350.56,2023-01-28
+brownbilly@hotmail.com,Sourdough Bread Loaf,38.39,2,76.78,2023-11-11
+brittney21@stewart.com,Coconut Milk Beverage,95.45,1,95.45,2021-06-17
+greenerin@hotmail.com,Organic Almond Butter,49.01,3,147.03,2024-05-10
+cardenasjoshua@gmail.com,Extra Virgin Olive Oil,87.64,1,87.64,2024-02-02
+rickyfriedman@gmail.com,Roasted Coffee Beans,28.56,2,57.12,2022-03-11
+rickyfriedman@gmail.com,Protein Snack Bars,59.72,3,179.16,2024-09-29
+greenerin@hotmail.com,Whole Grain Pasta,71.53,4,286.12,2021-08-03
+tina89@hotmail.com,Dark Chocolate Bar,75.38,3,226.14,2021-10-21
+jillian25@welch.org,Sea Salt Potato Chips,62.35,3,187.05,2023-08-24
+brittney21@stewart.com,Citrus Sparkling Water,26.0,1,26.0,2024-04-07
+greenerin@hotmail.com,Gluten-Free Crackers,38.55,4,154.2,2023-03-10
+greenkeith@yahoo.com,Organic Tomato Sauce,80.03,2,160.06,2023-12-12
+kyle41@townsend.com,Roasted Coffee Beans,28.56,2,57.12,2020-02-06
+greenkeith@yahoo.com,Extra Virgin Olive Oil,87.64,3,262.92,2020-06-14
+greenkeith@yahoo.com,Mixed Berry Jam,13.43,1,13.43,2024-03-22
+greenkeith@yahoo.com,Extra Virgin Olive Oil,87.64,1,87.64,2022-07-08
+cardenasjoshua@gmail.com,Gluten-Free Crackers,38.55,3,115.65,2020-07-16
+greenerin@hotmail.com,Sourdough Bread Loaf,38.39,2,76.78,2023-02-21
+kyle41@townsend.com,Spicy Salsa Jar,77.17,2,154.34,2023-12-26
+michellehenderson@gmail.com,Lavender Hand Soap,40.53,2,81.06,2021-03-24
+greenerin@hotmail.com,Sourdough Bread Loaf,38.39,3,115.17,2024-06-16
+katrina56@hotmail.com,Sea Salt Potato Chips,62.35,3,187.05,2021-11-09
+brownbilly@hotmail.com,Mixed Berry Jam,13.43,5,67.15,2022-10-15
+katrina56@hotmail.com,Chia Seed Pudding,17.89,4,71.56,2022-06-26
+michellehenderson@gmail.com,Whole Grain Pasta,71.53,3,214.59,2020-02-06
+ehodges@yahoo.com,Herbal Green Tea,94.1,3,282.3,2021-10-12
+tina89@hotmail.com,Mixed Berry Jam,13.43,5,67.15,2024-08-27
+greenkeith@yahoo.com,Whole Grain Pasta,71.53,1,71.53,2023-03-12
+brownbilly@hotmail.com,Natural Honey Jar,95.56,2,191.12,2021-07-02
+michellehenderson@gmail.com,Dark Chocolate Bar,75.38,2,150.76,2024-03-29
+craigbrown@mccarty.com,Herbal Green Tea,94.1,1,94.1,2021-01-21
+carolgriffith@hotmail.com,Herbal Green Tea,94.1,1,94.1,2022-11-08
+carolgriffith@hotmail.com,Extra Virgin Olive Oil,87.64,3,262.92,2023-09-03
+greenkeith@yahoo.com,Extra Virgin Olive Oil,87.64,4,350.56,2021-01-08
+paul92@yahoo.com,Dark Chocolate Bar,75.38,3,226.14,2023-10-13
+kyle41@townsend.com,Coconut Milk Beverage,95.45,1,95.45,2021-10-13
+hawkinsrichard@fry-cooper.net,Chia Seed Pudding,17.89,1,17.89,2024-02-28
+rphillips@sutton-bates.com,Organic Almond Butter,49.01,4,196.04,2021-12-01
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,2,26.86,2021-05-09
+brittney21@stewart.com,Sea Salt Potato Chips,62.35,5,311.75,2021-10-22
+ehodges@yahoo.com,Protein Snack Bars,59.72,1,59.72,2023-11-20
+kyle41@townsend.com,Sourdough Bread Loaf,38.39,2,76.78,2022-06-23
+carolgriffith@hotmail.com,Whole Grain Pasta,71.53,4,286.12,2020-01-24
+greenerin@hotmail.com,Spicy Salsa Jar,77.17,1,77.17,2021-02-15
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,1,13.43,2022-02-08
+carolgriffith@hotmail.com,Spicy Salsa Jar,77.17,2,154.34,2023-09-17
+kyle41@townsend.com,Citrus Sparkling Water,26.0,4,104.0,2024-08-31
+paul92@yahoo.com,Natural Honey Jar,95.56,2,191.12,2023-11-21
+katrina56@hotmail.com,Sourdough Bread Loaf,38.39,3,115.17,2022-12-17
+kyle41@townsend.com,Organic Tomato Sauce,80.03,2,160.06,2024-05-07
+curtisevans@yahoo.com,Whole Grain Pasta,71.53,2,143.06,2022-04-19
+rphillips@sutton-bates.com,Whole Grain Pasta,71.53,1,71.53,2023-06-17
+kyle41@townsend.com,Sea Salt Potato Chips,62.35,3,187.05,2020-11-07
+greenkeith@yahoo.com,Dark Chocolate Bar,75.38,4,301.52,2022-04-02
+cardenasjoshua@gmail.com,Gluten-Free Crackers,38.55,5,192.75,2023-05-21
+greenkeith@yahoo.com,Spicy Salsa Jar,77.17,5,385.85,2020-04-29
+ehodges@yahoo.com,Coconut Milk Beverage,95.45,4,381.8,2024-07-05
+cardenasjoshua@gmail.com,Sourdough Bread Loaf,38.39,4,153.56,2021-06-03
+jillian25@welch.org,Coconut Milk Beverage,95.45,2,190.9,2024-09-25
+hawkinsrichard@fry-cooper.net,Mixed Berry Jam,13.43,1,13.43,2021-01-26
+hawkinsrichard@fry-cooper.net,Chia Seed Pudding,17.89,5,89.45,2022-03-09
+curtisevans@yahoo.com,Organic Tomato Sauce,80.03,5,400.15,2022-02-04
+jillian25@welch.org,Sea Salt Potato Chips,62.35,1,62.35,2020-05-24
+tina89@hotmail.com,Sea Salt Potato Chips,62.35,2,124.7,2022-12-29
+jillian25@welch.org,Lavender Hand Soap,40.53,4,162.12,2021-01-25
+jillian25@welch.org,Gluten-Free Crackers,38.55,3,115.65,2022-06-20
+jillian25@welch.org,Whole Grain Pasta,71.53,4,286.12,2021-08-08
+michellehenderson@gmail.com,Roasted Coffee Beans,28.56,5,142.8,2022-01-05
+michellehenderson@gmail.com,Spicy Salsa Jar,77.17,2,154.34,2020-04-09
+carolgriffith@hotmail.com,Sea Salt Potato Chips,62.35,1,62.35,2024-08-17
+cardenasjoshua@gmail.com,Organic Almond Butter,49.01,2,98.02,2021-10-31
+kyle41@townsend.com,Fresh Avocado Dip,72.83,2,145.66,2023-11-22
+millerlisa@mccarthy.org,Lavender Hand Soap,40.53,1,40.53,2022-04-03
+brittney21@stewart.com,Coconut Milk Beverage,95.45,2,190.9,2023-04-03
+kyle41@townsend.com,Natural Honey Jar,95.56,1,95.56,2022-09-29
+greenerin@hotmail.com,Lavender Hand Soap,40.53,5,202.65,2023-12-31
+cardenasjoshua@gmail.com,Dark Chocolate Bar,75.38,2,150.76,2022-11-30
+paul92@yahoo.com,Maple Granola Mix,33.34,2,66.68,2022-08-29
+paul92@yahoo.com,Sea Salt Potato Chips,62.35,5,311.75,2022-11-25
+katrina56@hotmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2024-04-14
+brownbilly@hotmail.com,Whole Grain Pasta,71.53,3,214.59,2021-10-31
+jillian25@welch.org,Gluten-Free Crackers,38.55,4,154.2,2022-06-13
+craigbrown@mccarty.com,Dark Chocolate Bar,75.38,5,376.9,2022-07-23
+brownbilly@hotmail.com,Fresh Avocado Dip,72.83,2,145.66,2021-07-01
+kyle41@townsend.com,Organic Almond Butter,49.01,5,245.05,2024-10-10
+rphillips@sutton-bates.com,Coconut Milk Beverage,95.45,3,286.35,2022-01-13
+brownbilly@hotmail.com,Citrus Sparkling Water,26.0,1,26.0,2022-09-04
+rickyfriedman@gmail.com,Lavender Hand Soap,40.53,1,40.53,2021-10-28
+rebecca74@gmail.com,Sourdough Bread Loaf,38.39,3,115.17,2021-03-17
+greenkeith@yahoo.com,Gluten-Free Crackers,38.55,3,115.65,2024-03-20
+brittney21@stewart.com,Organic Tomato Sauce,80.03,4,320.12,2024-05-10
+cardenasjoshua@gmail.com,Spicy Salsa Jar,77.17,3,231.51,2023-05-17
+katrina56@hotmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2022-11-04
+katrina56@hotmail.com,Organic Tomato Sauce,80.03,3,240.09,2022-02-05
+carolgriffith@hotmail.com,Lavender Hand Soap,40.53,2,81.06,2021-03-05
+rphillips@sutton-bates.com,Chia Seed Pudding,17.89,4,71.56,2023-09-29
+greenerin@hotmail.com,Chia Seed Pudding,17.89,1,17.89,2023-08-07
+rickyfriedman@gmail.com,Organic Almond Butter,49.01,2,98.02,2020-06-30
+jillian25@welch.org,Organic Tomato Sauce,80.03,5,400.15,2023-12-16
+rickyfriedman@gmail.com,Coconut Milk Beverage,95.45,3,286.35,2021-07-12
+rickyfriedman@gmail.com,Sourdough Bread Loaf,38.39,1,38.39,2022-12-27
+paul92@yahoo.com,Roasted Coffee Beans,28.56,1,28.56,2023-08-25
+paul92@yahoo.com,Coconut Milk Beverage,95.45,5,477.25,2023-07-26
+carolgriffith@hotmail.com,Protein Snack Bars,59.72,2,119.44,2024-06-17
+craigbrown@mccarty.com,Natural Honey Jar,95.56,3,286.68,2023-10-16
+greenkeith@yahoo.com,Extra Virgin Olive Oil,87.64,4,350.56,2020-06-01
+cardenasjoshua@gmail.com,Dark Chocolate Bar,75.38,1,75.38,2021-07-03
+katrina56@hotmail.com,Organic Tomato Sauce,80.03,4,320.12,2023-01-29
+rickyfriedman@gmail.com,Roasted Coffee Beans,28.56,2,57.12,2022-02-12
+jillian25@welch.org,Organic Almond Butter,49.01,5,245.05,2022-04-03
+greenerin@hotmail.com,Chia Seed Pudding,17.89,4,71.56,2024-05-26
+paul92@yahoo.com,Herbal Green Tea,94.1,4,376.4,2024-09-15
+rphillips@sutton-bates.com,Roasted Coffee Beans,28.56,5,142.8,2021-06-14
+cardenasjoshua@gmail.com,Chia Seed Pudding,17.89,3,53.67,2020-03-23
+rickyfriedman@gmail.com,Organic Tomato Sauce,80.03,5,400.15,2023-10-20
+cardenasjoshua@gmail.com,Citrus Sparkling Water,26.0,2,52.0,2022-06-14
+cardenasjoshua@gmail.com,Organic Almond Butter,49.01,5,245.05,2021-10-15
+greenkeith@yahoo.com,Spicy Salsa Jar,77.17,3,231.51,2021-07-05
+brownbilly@hotmail.com,Extra Virgin Olive Oil,87.64,5,438.2,2020-06-21
+hawkinsrichard@fry-cooper.net,Roasted Coffee Beans,28.56,3,85.68,2022-04-06
+katrina56@hotmail.com,Fresh Avocado Dip,72.83,1,72.83,2021-03-16
+brownbilly@hotmail.com,Sea Salt Potato Chips,62.35,3,187.05,2022-04-20
+rphillips@sutton-bates.com,Whole Grain Pasta,71.53,5,357.65,2021-10-20
+millerlisa@mccarthy.org,Organic Almond Butter,49.01,5,245.05,2022-08-08
+paul92@yahoo.com,Lavender Hand Soap,40.53,4,162.12,2020-01-01
+hawkinsrichard@fry-cooper.net,Sourdough Bread Loaf,38.39,4,153.56,2023-05-13
+carolgriffith@hotmail.com,Coconut Milk Beverage,95.45,4,381.8,2021-10-04
+curtisevans@yahoo.com,Lavender Hand Soap,40.53,1,40.53,2022-11-29
+curtisevans@yahoo.com,Spicy Salsa Jar,77.17,4,308.68,2023-04-07
+jillian25@welch.org,Whole Grain Pasta,71.53,2,143.06,2022-10-10
+cardenasjoshua@gmail.com,Herbal Green Tea,94.1,5,470.5,2020-10-13
+brittney21@stewart.com,Gluten-Free Crackers,38.55,2,77.1,2023-08-02
+paul92@yahoo.com,Chia Seed Pudding,17.89,3,53.67,2021-11-13
+brownbilly@hotmail.com,Maple Granola Mix,33.34,5,166.7,2022-03-11
+rebecca74@gmail.com,Lavender Hand Soap,40.53,3,121.59,2023-05-20
+curtisevans@yahoo.com,Gluten-Free Crackers,38.55,4,154.2,2024-07-25
+brittney21@stewart.com,Protein Snack Bars,59.72,2,119.44,2021-05-21
+millerlisa@mccarthy.org,Extra Virgin Olive Oil,87.64,3,262.92,2021-04-06
+rebecca74@gmail.com,Chia Seed Pudding,17.89,3,53.67,2023-06-24
+brittney21@stewart.com,Citrus Sparkling Water,26.0,4,104.0,2024-10-02
+jillian25@welch.org,Organic Tomato Sauce,80.03,4,320.12,2023-11-13
+craigbrown@mccarty.com,Chia Seed Pudding,17.89,5,89.45,2023-05-22
+rickyfriedman@gmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2020-12-10
+hawkinsrichard@fry-cooper.net,Lavender Hand Soap,40.53,4,162.12,2023-03-31
+carolgriffith@hotmail.com,Sourdough Bread Loaf,38.39,4,153.56,2024-04-25
+kyle41@townsend.com,Coconut Milk Beverage,95.45,1,95.45,2021-03-21
+hawkinsrichard@fry-cooper.net,Fresh Avocado Dip,72.83,5,364.15,2020-11-11
+greenkeith@yahoo.com,Spicy Salsa Jar,77.17,1,77.17,2020-04-07
+ehodges@yahoo.com,Gluten-Free Crackers,38.55,3,115.65,2022-09-20
+greenkeith@yahoo.com,Fresh Avocado Dip,72.83,2,145.66,2021-11-01
+rickyfriedman@gmail.com,Dark Chocolate Bar,75.38,2,150.76,2024-07-30
+paul92@yahoo.com,Protein Snack Bars,59.72,1,59.72,2024-09-22
+brittney21@stewart.com,Whole Grain Pasta,71.53,5,357.65,2021-05-19
+rebecca74@gmail.com,Organic Almond Butter,49.01,1,49.01,2024-05-07
+brittney21@stewart.com,Organic Tomato Sauce,80.03,3,240.09,2021-06-06
+brownbilly@hotmail.com,Spicy Salsa Jar,77.17,4,308.68,2022-01-11
+michellehenderson@gmail.com,Sea Salt Potato Chips,62.35,3,187.05,2021-10-21
+carolgriffith@hotmail.com,Protein Snack Bars,59.72,1,59.72,2023-10-13
+rphillips@sutton-bates.com,Spicy Salsa Jar,77.17,1,77.17,2021-05-27
+michellehenderson@gmail.com,Spicy Salsa Jar,77.17,5,385.85,2023-03-12
+rickyfriedman@gmail.com,Coconut Milk Beverage,95.45,5,477.25,2021-12-26
+cardenasjoshua@gmail.com,Citrus Sparkling Water,26.0,1,26.0,2023-11-23
+greenerin@hotmail.com,Mixed Berry Jam,13.43,5,67.15,2024-09-14
+hawkinsrichard@fry-cooper.net,Organic Tomato Sauce,80.03,2,160.06,2023-05-06
+kyle41@townsend.com,Organic Tomato Sauce,80.03,4,320.12,2020-07-11
+tina89@hotmail.com,Herbal Green Tea,94.1,3,282.3,2023-12-12
+greenerin@hotmail.com,Roasted Coffee Beans,28.56,3,85.68,2022-01-05
+tina89@hotmail.com,Whole Grain Pasta,71.53,4,286.12,2021-05-23
+michellehenderson@gmail.com,Citrus Sparkling Water,26.0,3,78.0,2020-01-08
+michellehenderson@gmail.com,Organic Almond Butter,49.01,3,147.03,2022-12-20
+rickyfriedman@gmail.com,Maple Granola Mix,33.34,1,33.34,2024-03-04
+brownbilly@hotmail.com,Mixed Berry Jam,13.43,1,13.43,2020-09-15
+greenkeith@yahoo.com,Protein Snack Bars,59.72,2,119.44,2023-06-03
+jillian25@welch.org,Maple Granola Mix,33.34,3,100.02,2021-07-05
+greenerin@hotmail.com,Organic Almond Butter,49.01,5,245.05,2021-10-18
+tina89@hotmail.com,Spicy Salsa Jar,77.17,2,154.34,2020-03-03
+hawkinsrichard@fry-cooper.net,Extra Virgin Olive Oil,87.64,3,262.92,2024-06-24
+hawkinsrichard@fry-cooper.net,Maple Granola Mix,33.34,3,100.02,2024-02-15
+tina89@hotmail.com,Lavender Hand Soap,40.53,1,40.53,2020-06-20
+tina89@hotmail.com,Natural Honey Jar,95.56,5,477.8,2024-05-16
+rphillips@sutton-bates.com,Maple Granola Mix,33.34,3,100.02,2024-10-31
+rickyfriedman@gmail.com,Organic Tomato Sauce,80.03,4,320.12,2020-01-14
+cardenasjoshua@gmail.com,Dark Chocolate Bar,75.38,4,301.52,2020-04-03
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,5,67.15,2022-01-08
+craigbrown@mccarty.com,Extra Virgin Olive Oil,87.64,3,262.92,2020-06-20
+tina89@hotmail.com,Herbal Green Tea,94.1,5,470.5,2024-04-07
+paul92@yahoo.com,Coconut Milk Beverage,95.45,2,190.9,2023-11-27
+cardenasjoshua@gmail.com,Mixed Berry Jam,13.43,1,13.43,2023-02-06
+craigbrown@mccarty.com,Citrus Sparkling Water,26.0,4,104.0,2022-01-07
+rphillips@sutton-bates.com,Natural Honey Jar,95.56,3,286.68,2023-11-21
+jillian25@welch.org,Protein Snack Bars,59.72,2,119.44,2023-09-09
+ehodges@yahoo.com,Natural Honey Jar,95.56,3,286.68,2024-01-20
+brittney21@stewart.com,Herbal Green Tea,94.1,1,94.1,2024-06-15
+brownbilly@hotmail.com,Roasted Coffee Beans,28.56,4,114.24,2020-05-17
+rebecca74@gmail.com,Mixed Berry Jam,13.43,5,67.15,2020-06-29
+jillian25@welch.org,Citrus Sparkling Water,26.0,2,52.0,2024-04-30
+millerlisa@mccarthy.org,Roasted Coffee Beans,28.56,3,85.68,2021-12-18
+kyle41@townsend.com,Coconut Milk Beverage,95.45,2,190.9,2024-09-11
+craigbrown@mccarty.com,Fresh Avocado Dip,72.83,4,291.32,2021-10-15
+ehodges@yahoo.com,Sea Salt Potato Chips,62.35,1,62.35,2023-06-05
+carolgriffith@hotmail.com,Spicy Salsa Jar,77.17,4,308.68,2022-12-16
+rickyfriedman@gmail.com,Extra Virgin Olive Oil,87.64,2,175.28,2020-09-10
+rickyfriedman@gmail.com,Organic Almond Butter,49.01,4,196.04,2020-02-03
+brownbilly@hotmail.com,Gluten-Free Crackers,38.55,4,154.2,2022-11-01
+hawkinsrichard@fry-cooper.net,Organic Tomato Sauce,80.03,4,320.12,2024-02-01
+rphillips@sutton-bates.com,Organic Almond Butter,49.01,5,245.05,2021-11-05
+hawkinsrichard@fry-cooper.net,Maple Granola Mix,33.34,4,133.36,2020-04-26
+brittney21@stewart.com,Protein Snack Bars,59.72,1,59.72,2023-02-07
+katrina56@hotmail.com,Sourdough Bread Loaf,38.39,2,76.78,2022-06-29
+brownbilly@hotmail.com,Spicy Salsa Jar,77.17,4,308.68,2020-06-25
+rebecca74@gmail.com,Lavender Hand Soap,40.53,3,121.59,2022-02-17
+cardenasjoshua@gmail.com,Lavender Hand Soap,40.53,3,121.59,2021-10-04
+tina89@hotmail.com,Herbal Green Tea,94.1,2,188.2,2020-04-23
+millerlisa@mccarthy.org,Organic Almond Butter,49.01,1,49.01,2022-09-11
+kyle41@townsend.com,Roasted Coffee Beans,28.56,5,142.8,2022-12-02
+rickyfriedman@gmail.com,Roasted Coffee Beans,28.56,1,28.56,2021-10-22
+curtisevans@yahoo.com,Fresh Avocado Dip,72.83,1,72.83,2020-07-06
+paul92@yahoo.com,Sea Salt Potato Chips,62.35,5,311.75,2022-08-28
+michellehenderson@gmail.com,Whole Grain Pasta,71.53,1,71.53,2021-02-14
+millerlisa@mccarthy.org,Natural Honey Jar,95.56,5,477.8,2020-12-09
+cardenasjoshua@gmail.com,Natural Honey Jar,95.56,3,286.68,2023-04-29
+rickyfriedman@gmail.com,Maple Granola Mix,33.34,4,133.36,2021-06-06
+greenerin@hotmail.com,Maple Granola Mix,33.34,4,133.36,2022-01-12
+cardenasjoshua@gmail.com,Citrus Sparkling Water,26.0,3,78.0,2023-11-21
+kyle41@townsend.com,Sea Salt Potato Chips,62.35,1,62.35,2020-01-11
+greenkeith@yahoo.com,Sourdough Bread Loaf,38.39,5,191.95,2022-02-03
+tina89@hotmail.com,Chia Seed Pudding,17.89,2,35.78,2022-06-28
+rphillips@sutton-bates.com,Gluten-Free Crackers,38.55,1,38.55,2024-10-28
+paul92@yahoo.com,Roasted Coffee Beans,28.56,5,142.8,2024-04-17
+brittney21@stewart.com,Maple Granola Mix,33.34,4,133.36,2022-04-22
+katrina56@hotmail.com,Maple Granola Mix,33.34,5,166.7,2021-11-19
+rphillips@sutton-bates.com,Coconut Milk Beverage,95.45,5,477.25,2021-08-16
+curtisevans@yahoo.com,Mixed Berry Jam,13.43,4,53.72,2024-08-03
+paul92@yahoo.com,Protein Snack Bars,59.72,5,298.6,2020-03-29
+brittney21@stewart.com,Organic Almond Butter,49.01,5,245.05,2023-05-25
+brownbilly@hotmail.com,Chia Seed Pudding,17.89,1,17.89,2024-05-17
+millerlisa@mccarthy.org,Roasted Coffee Beans,28.56,4,114.24,2021-09-15
+brownbilly@hotmail.com,Citrus Sparkling Water,26.0,5,130.0,2021-04-16
+rebecca74@gmail.com,Citrus Sparkling Water,26.0,2,52.0,2020-12-02
+brownbilly@hotmail.com,Maple Granola Mix,33.34,5,166.7,2020-01-05
+cardenasjoshua@gmail.com,Gluten-Free Crackers,38.55,5,192.75,2023-01-08
+rickyfriedman@gmail.com,Whole Grain Pasta,71.53,1,71.53,2020-07-13
+katrina56@hotmail.com,Roasted Coffee Beans,28.56,4,114.24,2024-06-23
+curtisevans@yahoo.com,Sourdough Bread Loaf,38.39,3,115.17,2024-03-19
+paul92@yahoo.com,Coconut Milk Beverage,95.45,2,190.9,2023-06-06
+brownbilly@hotmail.com,Dark Chocolate Bar,75.38,3,226.14,2023-06-30
+michellehenderson@gmail.com,Dark Chocolate Bar,75.38,1,75.38,2023-12-18
+rebecca74@gmail.com,Maple Granola Mix,33.34,3,100.02,2024-09-14
+rebecca74@gmail.com,Coconut Milk Beverage,95.45,4,381.8,2021-04-02
+carolgriffith@hotmail.com,Citrus Sparkling Water,26.0,5,130.0,2024-09-13
+hawkinsrichard@fry-cooper.net,Herbal Green Tea,94.1,1,94.1,2020-08-18
+brittney21@stewart.com,Organic Tomato Sauce,80.03,3,240.09,2024-02-16
+rickyfriedman@gmail.com,Citrus Sparkling Water,26.0,4,104.0,2024-10-14
+millerlisa@mccarthy.org,Herbal Green Tea,94.1,5,470.5,2024-02-24
+greenkeith@yahoo.com,Mixed Berry Jam,13.43,1,13.43,2024-10-16
+ehodges@yahoo.com,Sourdough Bread Loaf,38.39,2,76.78,2020-11-16
+rphillips@sutton-bates.com,Roasted Coffee Beans,28.56,3,85.68,2021-05-04
+jillian25@welch.org,Fresh Avocado Dip,72.83,4,291.32,2021-05-02
+brittney21@stewart.com,Maple Granola Mix,33.34,2,66.68,2022-09-12
+rickyfriedman@gmail.com,Mixed Berry Jam,13.43,2,26.86,2023-02-17
+katrina56@hotmail.com,Organic Tomato Sauce,80.03,5,400.15,2022-04-14
+katrina56@hotmail.com,Herbal Green Tea,94.1,1,94.1,2020-11-23
+kyle41@townsend.com,Citrus Sparkling Water,26.0,5,130.0,2024-05-04
+hawkinsrichard@fry-cooper.net,Lavender Hand Soap,40.53,4,162.12,2020-01-22
+greenerin@hotmail.com,Chia Seed Pudding,17.89,1,17.89,2024-03-03
+paul92@yahoo.com,Whole Grain Pasta,71.53,2,143.06,2021-11-09
+ehodges@yahoo.com,Organic Tomato Sauce,80.03,1,80.03,2020-04-27
+millerlisa@mccarthy.org,Extra Virgin Olive Oil,87.64,1,87.64,2020-03-29
+tina89@hotmail.com,Roasted Coffee Beans,28.56,4,114.24,2020-10-03
+jillian25@welch.org,Organic Tomato Sauce,80.03,1,80.03,2021-07-11
+curtisevans@yahoo.com,Gluten-Free Crackers,38.55,5,192.75,2023-06-15
+greenerin@hotmail.com,Dark Chocolate Bar,75.38,4,301.52,2022-07-30
+kyle41@townsend.com,Sourdough Bread Loaf,38.39,2,76.78,2023-10-23
+hawkinsrichard@fry-cooper.net,Extra Virgin Olive Oil,87.64,1,87.64,2020-11-13
+brittney21@stewart.com,Sourdough Bread Loaf,38.39,3,115.17,2021-07-17
+greenkeith@yahoo.com,Fresh Avocado Dip,72.83,5,364.15,2020-01-07
+brownbilly@hotmail.com,Herbal Green Tea,94.1,2,188.2,2020-02-28
+rebecca74@gmail.com,Spicy Salsa Jar,77.17,2,154.34,2020-09-21
+jillian25@welch.org,Protein Snack Bars,59.72,5,298.6,2023-08-05
+curtisevans@yahoo.com,Lavender Hand Soap,40.53,1,40.53,2021-10-20
+kyle41@townsend.com,Protein Snack Bars,59.72,3,179.16,2022-06-04
+greenerin@hotmail.com,Natural Honey Jar,95.56,2,191.12,2021-11-22
+brownbilly@hotmail.com,Sea Salt Potato Chips,62.35,5,311.75,2024-01-14
+brownbilly@hotmail.com,Mixed Berry Jam,13.43,1,13.43,2022-02-07
+tina89@hotmail.com,Lavender Hand Soap,40.53,1,40.53,2023-01-13
+paul92@yahoo.com,Spicy Salsa Jar,77.17,5,385.85,2024-08-23
+hawkinsrichard@fry-cooper.net,Gluten-Free Crackers,38.55,2,77.1,2024-04-18
+rebecca74@gmail.com,Herbal Green Tea,94.1,3,282.3,2020-01-24
+rickyfriedman@gmail.com,Sourdough Bread Loaf,38.39,2,76.78,2023-09-25
+greenkeith@yahoo.com,Sea Salt Potato Chips,62.35,1,62.35,2021-10-23
+ehodges@yahoo.com,Natural Honey Jar,95.56,1,95.56,2023-12-26
+paul92@yahoo.com,Spicy Salsa Jar,77.17,5,385.85,2024-10-29
+ehodges@yahoo.com,Mixed Berry Jam,13.43,1,13.43,2021-06-15
+rickyfriedman@gmail.com,Extra Virgin Olive Oil,87.64,3,262.92,2022-11-14
+millerlisa@mccarthy.org,Extra Virgin Olive Oil,87.64,1,87.64,2022-10-24
+millerlisa@mccarthy.org,Natural Honey Jar,95.56,3,286.68,2020-07-13
+paul92@yahoo.com,Roasted Coffee Beans,28.56,4,114.24,2022-01-31
+brownbilly@hotmail.com,Spicy Salsa Jar,77.17,4,308.68,2023-06-16
+tina89@hotmail.com,Gluten-Free Crackers,38.55,2,77.1,2022-04-26
+millerlisa@mccarthy.org,Spicy Salsa Jar,77.17,5,385.85,2023-06-28
+jillian25@welch.org,Spicy Salsa Jar,77.17,2,154.34,2021-12-19
+curtisevans@yahoo.com,Sea Salt Potato Chips,62.35,2,124.7,2020-07-20
+kyle41@townsend.com,Lavender Hand Soap,40.53,5,202.65,2023-06-27
+kyle41@townsend.com,Herbal Green Tea,94.1,1,94.1,2020-01-05
+carolgriffith@hotmail.com,Whole Grain Pasta,71.53,5,357.65,2022-04-24
+millerlisa@mccarthy.org,Mixed Berry Jam,13.43,1,13.43,2022-04-18
+katrina56@hotmail.com,Fresh Avocado Dip,72.83,5,364.15,2022-12-30
+hawkinsrichard@fry-cooper.net,Roasted Coffee Beans,28.56,3,85.68,2023-06-21
+rebecca74@gmail.com,Mixed Berry Jam,13.43,5,67.15,2024-04-02
+rickyfriedman@gmail.com,Mixed Berry Jam,13.43,5,67.15,2023-10-02
+rickyfriedman@gmail.com,Organic Almond Butter,49.01,4,196.04,2022-02-08
+kyle41@townsend.com,Dark Chocolate Bar,75.38,5,376.9,2020-06-11
+craigbrown@mccarty.com,Maple Granola Mix,33.34,4,133.36,2023-10-25
+kyle41@townsend.com,Spicy Salsa Jar,77.17,1,77.17,2020-01-31
+greenerin@hotmail.com,Sea Salt Potato Chips,62.35,3,187.05,2022-05-25
+brittney21@stewart.com,Whole Grain Pasta,71.53,1,71.53,2022-10-19
+craigbrown@mccarty.com,Organic Tomato Sauce,80.03,1,80.03,2021-04-08
+michellehenderson@gmail.com,Organic Almond Butter,49.01,2,98.02,2021-03-09
+rebecca74@gmail.com,Fresh Avocado Dip,72.83,4,291.32,2020-10-27
+curtisevans@yahoo.com,Gluten-Free Crackers,38.55,4,154.2,2024-02-12
+michellehenderson@gmail.com,Sourdough Bread Loaf,38.39,2,76.78,2021-04-16
+greenkeith@yahoo.com,Maple Granola Mix,33.34,4,133.36,2022-09-06
+millerlisa@mccarthy.org,Extra Virgin Olive Oil,87.64,4,350.56,2022-09-13
+craigbrown@mccarty.com,Fresh Avocado Dip,72.83,3,218.49,2023-11-30
+rebecca74@gmail.com,Citrus Sparkling Water,26.0,4,104.0,2024-02-14
+paul92@yahoo.com,Lavender Hand Soap,40.53,4,162.12,2021-11-01
+cardenasjoshua@gmail.com,Citrus Sparkling Water,26.0,3,78.0,2024-01-18
+carolgriffith@hotmail.com,Organic Tomato Sauce,80.03,5,400.15,2024-07-12
+rphillips@sutton-bates.com,Gluten-Free Crackers,38.55,5,192.75,2024-08-19
+jillian25@welch.org,Maple Granola Mix,33.34,5,166.7,2021-07-27
+cardenasjoshua@gmail.com,Coconut Milk Beverage,95.45,5,477.25,2020-10-21
+katrina56@hotmail.com,Coconut Milk Beverage,95.45,3,286.35,2024-08-23
+curtisevans@yahoo.com,Extra Virgin Olive Oil,87.64,3,262.92,2021-11-07
+brittney21@stewart.com,Herbal Green Tea,94.1,2,188.2,2024-08-24
+millerlisa@mccarthy.org,Maple Granola Mix,33.34,5,166.7,2022-09-25
+brittney21@stewart.com,Citrus Sparkling Water,26.0,1,26.0,2021-10-05
+brittney21@stewart.com,Natural Honey Jar,95.56,1,95.56,2024-03-27
+rphillips@sutton-bates.com,Chia Seed Pudding,17.89,4,71.56,2024-03-11
+greenkeith@yahoo.com,Extra Virgin Olive Oil,87.64,1,87.64,2022-03-11
+curtisevans@yahoo.com,Citrus Sparkling Water,26.0,5,130.0,2020-03-18
+tina89@hotmail.com,Herbal Green Tea,94.1,3,282.3,2022-03-01
+craigbrown@mccarty.com,Maple Granola Mix,33.34,4,133.36,2024-09-25
+hawkinsrichard@fry-cooper.net,Mixed Berry Jam,13.43,4,53.72,2023-08-11
+rebecca74@gmail.com,Roasted Coffee Beans,28.56,3,85.68,2020-08-08
+rickyfriedman@gmail.com,Organic Almond Butter,49.01,4,196.04,2020-03-10
+rickyfriedman@gmail.com,Herbal Green Tea,94.1,1,94.1,2022-04-11
+millerlisa@mccarthy.org,Organic Tomato Sauce,80.03,2,160.06,2022-07-21
+katrina56@hotmail.com,Lavender Hand Soap,40.53,4,162.12,2023-05-06
+tina89@hotmail.com,Fresh Avocado Dip,72.83,2,145.66,2021-04-29
+kyle41@townsend.com,Natural Honey Jar,95.56,5,477.8,2023-06-30
+rebecca74@gmail.com,Sea Salt Potato Chips,62.35,1,62.35,2021-01-04
+millerlisa@mccarthy.org,Sea Salt Potato Chips,62.35,5,311.75,2020-11-19
+paul92@yahoo.com,Fresh Avocado Dip,72.83,3,218.49,2021-07-24
+carolgriffith@hotmail.com,Coconut Milk Beverage,95.45,3,286.35,2024-01-16
+ehodges@yahoo.com,Herbal Green Tea,94.1,4,376.4,2021-04-24
+kyle41@townsend.com,Sourdough Bread Loaf,38.39,3,115.17,2022-02-23
+katrina56@hotmail.com,Whole Grain Pasta,71.53,3,214.59,2023-09-02
+jillian25@welch.org,Roasted Coffee Beans,28.56,5,142.8,2021-06-25
+michellehenderson@gmail.com,Sea Salt Potato Chips,62.35,5,311.75,2021-10-05
+brownbilly@hotmail.com,Protein Snack Bars,59.72,5,298.6,2024-10-13
+brownbilly@hotmail.com,Mixed Berry Jam,13.43,2,26.86,2020-01-21
+rickyfriedman@gmail.com,Sourdough Bread Loaf,38.39,1,38.39,2022-10-07
+brittney21@stewart.com,Lavender Hand Soap,40.53,4,162.12,2021-06-25
+hawkinsrichard@fry-cooper.net,Mixed Berry Jam,13.43,5,67.15,2023-12-10
+cardenasjoshua@gmail.com,Sourdough Bread Loaf,38.39,3,115.17,2022-12-19
+katrina56@hotmail.com,Sourdough Bread Loaf,38.39,1,38.39,2022-08-15
+brownbilly@hotmail.com,Natural Honey Jar,95.56,1,95.56,2024-09-08
+rphillips@sutton-bates.com,Protein Snack Bars,59.72,1,59.72,2021-09-21
+curtisevans@yahoo.com,Sourdough Bread Loaf,38.39,3,115.17,2023-07-07
+cardenasjoshua@gmail.com,Citrus Sparkling Water,26.0,4,104.0,2021-06-21
+rphillips@sutton-bates.com,Dark Chocolate Bar,75.38,5,376.9,2020-10-06
+millerlisa@mccarthy.org,Dark Chocolate Bar,75.38,5,376.9,2022-09-03
+rebecca74@gmail.com,Gluten-Free Crackers,38.55,2,77.1,2022-11-02
+rickyfriedman@gmail.com,Herbal Green Tea,94.1,1,94.1,2024-10-23
+greenkeith@yahoo.com,Mixed Berry Jam,13.43,1,13.43,2023-03-10
+brittney21@stewart.com,Natural Honey Jar,95.56,1,95.56,2022-03-23
+curtisevans@yahoo.com,Chia Seed Pudding,17.89,2,35.78,2022-06-09
+carolgriffith@hotmail.com,Maple Granola Mix,33.34,4,133.36,2024-07-20
+cardenasjoshua@gmail.com,Organic Almond Butter,49.01,4,196.04,2022-07-11
+greenkeith@yahoo.com,Whole Grain Pasta,71.53,3,214.59,2020-02-02
+carolgriffith@hotmail.com,Protein Snack Bars,59.72,4,238.88,2020-04-21
+paul92@yahoo.com,Natural Honey Jar,95.56,4,382.24,2023-03-12
+cardenasjoshua@gmail.com,Fresh Avocado Dip,72.83,4,291.32,2020-04-06
+kyle41@townsend.com,Sourdough Bread Loaf,38.39,4,153.56,2020-12-27
+rebecca74@gmail.com,Sourdough Bread Loaf,38.39,3,115.17,2024-10-19
+katrina56@hotmail.com,Sea Salt Potato Chips,62.35,2,124.7,2022-10-11
+katrina56@hotmail.com,Citrus Sparkling Water,26.0,3,78.0,2023-05-07
+tina89@hotmail.com,Protein Snack Bars,59.72,5,298.6,2022-03-08
+rphillips@sutton-bates.com,Organic Tomato Sauce,80.03,1,80.03,2022-07-06
+carolgriffith@hotmail.com,Mixed Berry Jam,13.43,1,13.43,2023-01-09
+greenkeith@yahoo.com,Citrus Sparkling Water,26.0,1,26.0,2023-01-06
+brittney21@stewart.com,Sea Salt Potato Chips,62.35,5,311.75,2022-02-07
+jillian25@welch.org,Gluten-Free Crackers,38.55,1,38.55,2020-03-09
+kyle41@townsend.com,Fresh Avocado Dip,72.83,4,291.32,2020-06-25
+carolgriffith@hotmail.com,Organic Almond Butter,49.01,4,196.04,2021-09-17
+kyle41@townsend.com,Extra Virgin Olive Oil,87.64,4,350.56,2023-06-17
+curtisevans@yahoo.com,Lavender Hand Soap,40.53,4,162.12,2022-09-27
+hawkinsrichard@fry-cooper.net,Lavender Hand Soap,40.53,5,202.65,2024-03-28
+michellehenderson@gmail.com,Chia Seed Pudding,17.89,1,17.89,2023-11-17
+carolgriffith@hotmail.com,Dark Chocolate Bar,75.38,4,301.52,2022-09-05
+ehodges@yahoo.com,Maple Granola Mix,33.34,5,166.7,2023-09-01
+rphillips@sutton-bates.com,Roasted Coffee Beans,28.56,1,28.56,2021-11-24
+rphillips@sutton-bates.com,Mixed Berry Jam,13.43,4,53.72,2022-11-25
+jillian25@welch.org,Whole Grain Pasta,71.53,1,71.53,2023-02-27
+ehodges@yahoo.com,Spicy Salsa Jar,77.17,1,77.17,2023-03-26
+greenkeith@yahoo.com,Protein Snack Bars,59.72,3,179.16,2021-04-26
+michellehenderson@gmail.com,Protein Snack Bars,59.72,1,59.72,2021-04-30
+rebecca74@gmail.com,Natural Honey Jar,95.56,1,95.56,2020-05-03
+michellehenderson@gmail.com,Organic Almond Butter,49.01,5,245.05,2023-04-07
+curtisevans@yahoo.com,Lavender Hand Soap,40.53,2,81.06,2023-08-25
+brittney21@stewart.com,Organic Almond Butter,49.01,4,196.04,2021-10-24
+curtisevans@yahoo.com,Mixed Berry Jam,13.43,4,53.72,2022-05-07
+brittney21@stewart.com,Protein Snack Bars,59.72,3,179.16,2021-11-27
+tina89@hotmail.com,Whole Grain Pasta,71.53,5,357.65,2023-03-03
+carolgriffith@hotmail.com,Citrus Sparkling Water,26.0,1,26.0,2023-09-17
+rickyfriedman@gmail.com,Gluten-Free Crackers,38.55,3,115.65,2024-03-20
+greenerin@hotmail.com,Herbal Green Tea,94.1,2,188.2,2020-12-15
+millerlisa@mccarthy.org,Maple Granola Mix,33.34,4,133.36,2020-07-04
+brittney21@stewart.com,Spicy Salsa Jar,77.17,1,77.17,2020-12-13
+tina89@hotmail.com,Organic Almond Butter,49.01,1,49.01,2023-11-02
+rebecca74@gmail.com,Protein Snack Bars,59.72,5,298.6,2022-07-03
+kyle41@townsend.com,Gluten-Free Crackers,38.55,5,192.75,2021-11-24
+rebecca74@gmail.com,Lavender Hand Soap,40.53,3,121.59,2023-10-02
+jillian25@welch.org,Roasted Coffee Beans,28.56,1,28.56,2021-02-28
+ehodges@yahoo.com,Citrus Sparkling Water,26.0,4,104.0,2023-12-18
+kyle41@townsend.com,Sourdough Bread Loaf,38.39,3,115.17,2021-09-05
+michellehenderson@gmail.com,Mixed Berry Jam,13.43,4,53.72,2022-12-11
+tina89@hotmail.com,Organic Almond Butter,49.01,4,196.04,2022-09-16
+michellehenderson@gmail.com,Organic Almond Butter,49.01,1,49.01,2022-03-29
+paul92@yahoo.com,Extra Virgin Olive Oil,87.64,1,87.64,2024-04-18
+kyle41@townsend.com,Lavender Hand Soap,40.53,5,202.65,2021-01-25
+rickyfriedman@gmail.com,Citrus Sparkling Water,26.0,4,104.0,2024-01-16
+ehodges@yahoo.com,Fresh Avocado Dip,72.83,1,72.83,2023-02-25
+brownbilly@hotmail.com,Spicy Salsa Jar,77.17,5,385.85,2021-05-19
+ehodges@yahoo.com,Citrus Sparkling Water,26.0,1,26.0,2022-02-07
+rebecca74@gmail.com,Extra Virgin Olive Oil,87.64,1,87.64,2023-05-19
+jillian25@welch.org,Organic Tomato Sauce,80.03,5,400.15,2024-08-19
+greenerin@hotmail.com,Roasted Coffee Beans,28.56,4,114.24,2022-09-26
+millerlisa@mccarthy.org,Dark Chocolate Bar,75.38,5,376.9,2022-12-03
+brownbilly@hotmail.com,Organic Almond Butter,49.01,1,49.01,2020-10-14
+kyle41@townsend.com,Protein Snack Bars,59.72,1,59.72,2021-02-06
+rickyfriedman@gmail.com,Citrus Sparkling Water,26.0,1,26.0,2021-01-07
+tina89@hotmail.com,Lavender Hand Soap,40.53,5,202.65,2023-05-16
+brittney21@stewart.com,Extra Virgin Olive Oil,87.64,2,175.28,2022-10-26
+carolgriffith@hotmail.com,Protein Snack Bars,59.72,1,59.72,2023-01-09
+carolgriffith@hotmail.com,Fresh Avocado Dip,72.83,5,364.15,2023-04-27
+craigbrown@mccarty.com,Protein Snack Bars,59.72,5,298.6,2023-01-30
+kyle41@townsend.com,Natural Honey Jar,95.56,1,95.56,2024-06-22
+brownbilly@hotmail.com,Natural Honey Jar,95.56,5,477.8,2024-04-16
+paul92@yahoo.com,Fresh Avocado Dip,72.83,3,218.49,2020-04-22
+greenkeith@yahoo.com,Gluten-Free Crackers,38.55,3,115.65,2024-06-10
+rebecca74@gmail.com,Protein Snack Bars,59.72,4,238.88,2021-03-04
+ehodges@yahoo.com,Maple Granola Mix,33.34,3,100.02,2023-06-29
+michellehenderson@gmail.com,Lavender Hand Soap,40.53,4,162.12,2020-10-29
+tina89@hotmail.com,Citrus Sparkling Water,26.0,3,78.0,2022-08-17
+kyle41@townsend.com,Roasted Coffee Beans,28.56,2,57.12,2020-12-07
+ehodges@yahoo.com,Organic Almond Butter,49.01,2,98.02,2022-03-29
+katrina56@hotmail.com,Sourdough Bread Loaf,38.39,5,191.95,2021-04-21
+rickyfriedman@gmail.com,Dark Chocolate Bar,75.38,3,226.14,2024-07-04
+millerlisa@mccarthy.org,Herbal Green Tea,94.1,2,188.2,2022-12-26
+michellehenderson@gmail.com,Citrus Sparkling Water,26.0,4,104.0,2023-12-10
+rebecca74@gmail.com,Lavender Hand Soap,40.53,4,162.12,2021-07-03
+paul92@yahoo.com,Gluten-Free Crackers,38.55,3,115.65,2021-03-19
+paul92@yahoo.com,Whole Grain Pasta,71.53,3,214.59,2021-08-31
+rickyfriedman@gmail.com,Maple Granola Mix,33.34,5,166.7,2020-01-24
+rickyfriedman@gmail.com,Spicy Salsa Jar,77.17,2,154.34,2023-08-20
+curtisevans@yahoo.com,Dark Chocolate Bar,75.38,4,301.52,2020-04-28

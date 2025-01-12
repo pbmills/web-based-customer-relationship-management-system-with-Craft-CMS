@@ -1,4 +1,4 @@
-dateModified: 1736663785
+dateModified: 1736712326
 email:
   fromEmail: pri@codi.nz
   fromName: 'System Management'
@@ -7,6 +7,11 @@ meta:
   __names__:
     4d73388d-0b29-4629-9195-2bb6c4fa0b69: 'System Management' # System Management
     75897bfd-a53a-41ec-8f00-1952de7c7b02: 'System Management' # System Management
+plugins:
+  _foster-crm:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 system:
   edition: solo
   live: true
