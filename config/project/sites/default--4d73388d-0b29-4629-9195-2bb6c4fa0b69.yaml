@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'System Management'
+primary: true
+siteGroup: 75897bfd-a53a-41ec-8f00-1952de7c7b02 # System Management
+sortOrder: 1
